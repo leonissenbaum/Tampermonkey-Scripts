@@ -453,6 +453,9 @@
 
     // ---------- LEGEND ----------
     function injectLegend(root){
+        if (window.matchMedia("(orientation: portrait)").matches) {
+            return
+        }
         if (document.getElementById("pf2-tier-legend")) return;
         const box = document.createElement("div");
         box.id = "pf2-tier-legend";
