@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AoN PF2e Creature Stat Tier Highlighter
 // @namespace    https://2e.aonprd.com/
-// @version      1.1.0
+// @version      1.1.1
 // @description  Color-codes PF2e creature stats on AoN (Monsters/NPCs/Hazards).
 // @author       leonissenbaum & ChatGPT
 // @match        https://2e.aonprd.com/Monsters.aspx*
